@@ -47,7 +47,7 @@ Explores annual returns and volatility across sectors, helping identify differen
 
 Shows the latest available closing prices and daily returns, alongside company and sector comparisons. Filters allow users to focus on specific parts of the market.
 
-**Live dashboard:** The Looker Studio report link will be added here once sharing permissions have been configured and tested.
+**Live dashboard:** [Explore the interactive S&P 500 Dashboard](https://datastudio.google.com/reporting/fc00f7b3-aa1e-40fd-b579-a7905d64a70c)
 
 ## Data and Methodology
 
